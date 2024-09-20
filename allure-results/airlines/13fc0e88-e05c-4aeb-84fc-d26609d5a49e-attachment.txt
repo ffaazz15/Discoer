@@ -1,0 +1,5 @@
+[31mCRITICAL[0m root:test_discover.py:60 Answer: The key suppliers of Ryanair include:
+- Airports and ground handling
+- Aircraft and engine makers
+- Fuel providers
+- Inflight catering service providers

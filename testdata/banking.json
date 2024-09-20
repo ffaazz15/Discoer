@@ -1,0 +1,33 @@
+[
+    {
+        "input_question": "Hi",
+        "type": "unstructured"
+    },
+    {
+        "input_question": "what is phone number of Benefit Administrator?",
+        "type": "unstructured"
+    },
+    {
+        "input_question": "Should I keep copies of receipts or any other records for claim settlement?",
+        "type": "unstructured"
+    },
+    {
+        "input_question": "how much is Lost Luggage Reimbursement?",
+        "type": "unstructured"
+    },
+    {
+        "input_question": "Provide the names and symbols of securities with a spot price between $100 and $105",
+        "expected_answer": "SELECT",
+        "type": "structured"
+    },
+    {
+        "input_question": "what is the spot price of HSBC stock",
+        "expected_answer": "SELECT",
+        "type": "structured"
+    },
+    {
+        "input_question": "How many unique securities have been held across all accounts?",
+        "expected_answer": "SELECT",
+        "type": "structured"
+    }
+]

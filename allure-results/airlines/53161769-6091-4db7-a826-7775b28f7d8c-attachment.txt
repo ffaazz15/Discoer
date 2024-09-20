@@ -1,0 +1,1 @@
+[31mCRITICAL[0m root:test_discover.py:55 Answer: Delta Air Lines was recognized as the Best Airline for American Travelers, according to USA Today.

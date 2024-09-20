@@ -1,0 +1,1 @@
+[31mCRITICAL[0m root:test_discover.py:59 Answer: Mandar More graduated from Veermata Jijabai Technological Institute (VJTI), Mumbai with a Master of Computer Applications.

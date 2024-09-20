@@ -1,0 +1,32 @@
+[31mCRITICAL[0m root:test_discover.py:59 Answer: I don't know.
+[1m[31mERROR   [0m root:test_discover.py:81 Error occurred for question: 'Where did Enoch David Lal Graduate from?': Expected a non-'I don't know' answer for question, but received 'I don't know.'
+assert "i don't know." != "i don't know."
+ +  where "i don't know." = <built-in method lower of str object at 0x0000023AE7BCFF30>()
+ +    where <built-in method lower of str object at 0x0000023AE7BCFF30> = "I don't know.".lower
+[33mWARNING [0m root:utils.py:74 Attempt 1 failed with assertion error: Expected a non-'I don't know' answer for question, but received 'I don't know.'
+assert "i don't know." != "i don't know."
+ +  where "i don't know." = <built-in method lower of str object at 0x0000023AE7BCFF30>()
+ +    where <built-in method lower of str object at 0x0000023AE7BCFF30> = "I don't know.".lower
+[33mWARNING [0m root:utils.py:79 Attempt 2 failed with unexpected error: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF624D8EEA2+31554]
+	(No symbol) [0x00007FF624D07ED9]
+	(No symbol) [0x00007FF624BC872A]
+	(No symbol) [0x00007FF624C18434]
+	(No symbol) [0x00007FF624C1853C]
+	(No symbol) [0x00007FF624C5F6A7]
+	(No symbol) [0x00007FF624C3D06F]
+	(No symbol) [0x00007FF624C5C977]
+	(No symbol) [0x00007FF624C3CDD3]
+	(No symbol) [0x00007FF624C0A33B]
+	(No symbol) [0x00007FF624C0AED1]
+	GetHandleVerifier [0x00007FF625098B1D+3217341]
+	GetHandleVerifier [0x00007FF6250E5AE3+3532675]
+	GetHandleVerifier [0x00007FF6250DB0E0+3489152]
+	GetHandleVerifier [0x00007FF624E3E776+750614]
+	(No symbol) [0x00007FF624D1375F]
+	(No symbol) [0x00007FF624D0EB14]
+	(No symbol) [0x00007FF624D0ECA2]
+	(No symbol) [0x00007FF624CFE16F]
+	BaseThreadInitThunk [0x00007FFA8940257D+29]
+	RtlUserThreadStart [0x00007FFA8AA2AF28+40]

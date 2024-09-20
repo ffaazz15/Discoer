@@ -1,0 +1,3 @@
+[31mCRITICAL[0m root:test_discover.py:52 Answer: SELECT education.degree AS Degree, education.major AS Major, education.school AS School, education.graduation_year AS GraduationYear
+FROM `elastiq_dev.resume_final`, UNNEST(education) AS education
+WHERE LOWER(name) = 'arjun gawali'

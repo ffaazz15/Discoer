@@ -1,0 +1,3 @@
+[31mCRITICAL[0m root:test_discover.py:52 Answer: SELECT COUNT(*) AS people_not_from_delhi
+FROM `elastiq_dev.resume_final`
+WHERE LOWER(location) != 'delhi'

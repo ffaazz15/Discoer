@@ -1,0 +1,23 @@
+auth token, bearer token, URL for post, auth-header
+pytest -s -v --username=resume@elastiq.ai --password=1
+
+pytest -s -v --username=resume@elastiq.ai --password=1 --html=reports/resume.html
+pytest -s -v --username=airlines@elastiq.ai --password=123 --html=reports/airlines.html
+pytest -s -v --username=banking@elastiq.ai --password=123 --html=reports/banking.html
+
+removing -s wont print anything in command line
+
+
+pytest -s -v --username=resume@elastiq.ai --password=1 --alluredir=allure-results/resume --html=reports/resume.html
+pytest -s -v --username=airlines@elastiq.ai --password=123 --alluredir=allure-results/airlines --html=reports/airlines.html
+pytest -s -v --username=banking@elastiq.ai --password=123 --alluredir=allure-results/banking --html=reports/banking.html
+
+
+ allure serve allure-results/banking
+
+
+Jenkins::
+Go to Manage Jenkins > Script Console.
+System.setProperty("hudson.model.DirectoryBrowserSupport.CSP", "")
+
+pytest --username your_username --password your_password --login-url http://localhost:3000/login

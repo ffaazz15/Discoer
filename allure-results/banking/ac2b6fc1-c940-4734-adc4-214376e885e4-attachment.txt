@@ -1,0 +1,3 @@
+[31mCRITICAL[0m root:test_discover.py:48 Answer: SELECT name, ticker, ROUND(spot_price, 2) AS spot_price
+FROM investment_banking.securities
+WHERE spot_price BETWEEN 100 AND 105

@@ -1,0 +1,1 @@
+[31mCRITICAL[0m root:test_discover.py:59 Answer: $755,000 was given in grants from the Alaska Airlines Foundation in 2021.

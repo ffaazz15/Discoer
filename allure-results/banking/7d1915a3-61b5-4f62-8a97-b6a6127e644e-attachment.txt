@@ -1,0 +1,1 @@
+[31mCRITICAL[0m root:test_discover.py:59 Answer: The Lost Luggage Reimbursement level is three thousand dollars ($3,000.00) per trip. For New York residents, coverage is limited to two thousand dollars ($2,000.00) per bag.

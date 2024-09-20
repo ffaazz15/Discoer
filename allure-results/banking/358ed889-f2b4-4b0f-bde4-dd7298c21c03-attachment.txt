@@ -1,0 +1,1 @@
+[31mCRITICAL[0m root:test_discover.py:55 Answer: Yes. In the event that you need to file a claim, copies of your Visa card receipt and the itemized store receipt are required to verify the claim.

@@ -1,0 +1,1 @@
+[31mCRITICAL[0m root:test_discover.py:59 Answer: Delta maintains an FAA-approved safety management system (SMS).

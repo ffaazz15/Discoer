@@ -1,0 +1,2 @@
+[31mCRITICAL[0m root:test_discover.py:48 Answer: SELECT COUNT(DISTINCT security_id) AS unique_securities_held
+FROM investment_banking.holdings

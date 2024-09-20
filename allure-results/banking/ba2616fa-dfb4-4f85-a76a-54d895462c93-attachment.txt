@@ -1,0 +1,10 @@
+[31mCRITICAL[0m root:test_discover.py:59 Answer: I don't know.
+[1m[31mERROR   [0m root:test_discover.py:81 Error occurred for question: 'Should I keep copies of receipts or any other records for claim settlement?': Expected a non-'I don't know' answer for question, but received 'I don't know.'
+assert "i don't know." != "i don't know."
+ +  where "i don't know." = <built-in method lower of str object at 0x0000019E18F3E930>()
+ +    where <built-in method lower of str object at 0x0000019E18F3E930> = "I don't know.".lower
+[33mWARNING [0m root:utils.py:74 Attempt 1 failed with assertion error: Expected a non-'I don't know' answer for question, but received 'I don't know.'
+assert "i don't know." != "i don't know."
+ +  where "i don't know." = <built-in method lower of str object at 0x0000019E18F3E930>()
+ +    where <built-in method lower of str object at 0x0000019E18F3E930> = "I don't know.".lower
+[31mCRITICAL[0m root:test_discover.py:59 Answer: Yes, you should keep copies of receipts or any other records that are necessary to substantiate your claim. This includes the original purchase receipt of the covered item as recorded on your eligible Visa card, which is required for the reimbursement process.

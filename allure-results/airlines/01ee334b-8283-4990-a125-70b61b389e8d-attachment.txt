@@ -1,0 +1,7 @@
+[31mCRITICAL[0m root:test_discover.py:59 Answer: In 2021, Delta Airlines made several charitable contributions, including:
+
+- A $500,000 contribution to establish an Aviation component within the STEM category of the Academic, Cultural, Technological and Scientific Olympics (ACT-SO) in partnership with the NAACP.
+- Providing scholarships specifically for Atlanta Public School students through a partnership with the Emerging 100 of Atlanta.
+- A $500,000 contribution to support two UNCF Emergency Student Aid (ESA) programs.
+- A $1 million contribution to the Andrew J. Young Foundation in recognition of civil rights icon Ambassador Andrew Young, alongside dedicating the Ambassador Andrew J. Young International Building at the Atlanta headquarters.
+- A five-year partnership with Atlanta Public Schools (APS), totaling $500,000 to impact third-grade reading levels at two South Atlanta cluster schools.

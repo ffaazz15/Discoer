@@ -1,0 +1,1 @@
+[31mCRITICAL[0m root:test_discover.py:59 Answer: Enoch David Lal graduated from Shri Ram Institute Of Pharmacy, Jabalpur.

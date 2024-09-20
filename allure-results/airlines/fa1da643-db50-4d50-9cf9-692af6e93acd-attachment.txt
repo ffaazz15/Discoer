@@ -1,0 +1,1 @@
+[31mCRITICAL[0m root:test_discover.py:59 Answer: Ryanair is aiming to serve over 225 million passengers by the year 2026.

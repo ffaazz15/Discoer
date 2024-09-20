@@ -1,0 +1,26 @@
+[
+    {
+        "input_question": "How many passengers is Ryanair aiming to serve by year 2026?",
+        "type": "unstructured"
+    },
+    {
+        "input_question": "What was the charitable contribution done by delta airlines in year 2021?",
+        "type": "unstructured"
+    },
+    {
+        "input_question": "Which airline has an FAA-approved safety management system?",
+        "type": "unstructured"
+    },
+    {
+        "input_question": "How much grants were given by Alaska Airlines Foundation in 2021?",
+        "type": "unstructured"
+    },
+    {
+        "input_question": "what are the key suppliers of ryan air?",
+        "type": "unstructured"
+    },
+    {
+        "input_question": "which was the Best Airline for American Travelers?",
+        "type": "unstructured"
+    }
+]

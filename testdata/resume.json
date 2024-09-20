@@ -1,0 +1,29 @@
+[
+    {
+        "input_question": "Hi",
+        "type": "unstructured"
+    },
+    {
+        "input_question": "Where did Enoch David Lal Graduate from?",
+        "type": "unstructured"
+    },
+    {
+        "input_question": "Where did Mandar More graduate from?",
+        "type": "unstructured"
+    },
+    {
+        "input_question": "How many people are not from Delhi?",
+        "expected_answer": "SELECT",
+        "type": "structured"
+    },
+    {
+        "input_question": "How many total resumes?",
+        "expected_answer": "SELECT",
+        "type": "structured"
+    },
+    {
+        "input_question": "What is the educational Qualification of Arjun Gawali",
+        "expected_answer": "SELECT",
+        "type": "structured"
+    }
+]
